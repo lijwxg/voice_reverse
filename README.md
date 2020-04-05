@@ -6,7 +6,7 @@
 
 ## 使用simpleaudio播放语音
 
-1 [simpleaudio](https://github.com/hamiltron/py-simple-audio)作为pydub推荐的语音播放库
+1. [simpleaudio](https://github.com/hamiltron/py-simple-audio)作为pydub推荐的语音播放库
 
 ## 使用ffmpeg输出处理后的音频
 
